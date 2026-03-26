@@ -1,141 +1,90 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Ayush Dhewale</h1>
+<h3 align="center">🚀 IoT Developer | AI Enthusiast | Embedded Systems Engineer</h3>
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=0AFFEF&vCenter=true&width=550&lines=👋+Hello,+I'm+Ayush+Dhewale!" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=IoT+Developer;AI+%26+ML+Explorer;ESP32+%7C+Firebase+%7C+React+Native;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
+---
 
-**Computer Engineering Student @ VIT Pune** | **Full-Stack Developer** | **Problem Solver**
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;200%2B+DSA+Problems+Solved" />
-
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=2" />
+## 👨‍💻 About Me
+- 🔭 Working on **AI + IoT based Smart Systems**
+- 🌱 Currently learning **Deep Learning & DSA**
+- 🤖 Building **Arrhythmia Detection & Smart Farming Systems**
+- 📡 Experience with **ESP32, MQTT, Firebase, Blynk**
+- 📱 Mobile App Dev using **React Native**
+- ⚡ Fun fact: I love combining **Hardware + AI**
 
 ---
 
-## 🚀 About Me
+## 🚀 Tech Stack
 
-**Computer Engineering student at VIT Pune ** with strong expertise in **Full-Stack Development**, **Machine Learning**, and **Competitive Programming**.
+### 💻 Programming
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 
-- 🔭 **Currently:** Pursuing Bachelor's in Computer Engineering at VIT Pune  
-- 🌱 **Learning:** MERN stack, AI, Blockchain Technology  
-- 🛠 **Tech Stack:** Java, JavaScript, React, Node.js, MongoDB, MySQL, REST APIs  
-- 🧠 **Problem Solving:** 200+ DSA problems solved, strong algorithmic foundation  
-- 🚀 **Projects:** Agrova, Web Applications, Mobile applications  
-- 🤝 **Open to:** Internships, collaborations, and full-time opportunities  
-- 📫 **Contact:** `ayushdhewale@gmail.com` | Pune, Maharashtra, India  
+### 📡 IoT & Embedded
+![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge&logo=espressif)
+![Arduino](https://img.shields.io/badge/Arduino-green?style=for-the-badge&logo=arduino)
+![MQTT](https://img.shields.io/badge/MQTT-orange?style=for-the-badge)
 
----
+### 🌐 Web & App
+![React Native](https://img.shields.io/badge/React_Native-blue?style=for-the-badge&logo=react)
+![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase)
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tanuj2805&show_icons=true&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-eye&layout=compact&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ayush-eye&hide_border=true&ring=3B82F6&fire=F97316&currStreakLabel=3B82F6" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-eye&bg_color=ffffff&color=3b82f6&line=2563eb&point=000000&area=true&hide_border=true" />
-
-</div>
+### 🧠 AI/ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-grey?style=for-the-badge)
 
 ---
 
-## 🛠️ Technical Skills
+## 📊 GitHub Stats
 
-### **Programming Languages**
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### **Web Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
-
-### **Databases & DevOps**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayush-eye&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-eye&theme=radical" />
+</p>
 
 ---
 
-## 📂 Featured Projects
+## 🧠 Top Languages
 
-### 🔗 Depression Prediction Tool  
-- Developed an interactive web application using **R Shiny** to help students and professionals assess depression risk
-- Implemented a **custom Random Forest model** trained on real-world mental health datasets for accurate predictions
-- Features separate input paths for:
-  - **Students:** CGPA, study satisfaction, academic stress metrics
-  - **Professionals:** Job satisfaction, work pressure, career metrics
-- Provides instant **depression risk prediction** (Yes/No) with privacy-focused design
-- **Impact:** Focused on mental health awareness and early identification for at-risk individuals
-- **Technologies:** R Programming, R Shiny, Machine Learning, Random Forest Algorithm, Data Analysis
-
-### 🔗 IPFS-Based Personal Drive  
-**React, Express.js, IPFS, AES Encryption**
--- Developed a full-fledged web application with responsive React frontend for file upload/sharing
-- Implemented secure authentication/authorization system for verified user access
-- Integrated **AES encryption** for IPFS content identifiers ensuring confidential file sharing
-- Focused on usability, security, and reliability for real-world decentralized file sharing 
-
-### 🔗 LoCart – Local Shopping Platform  
-**Java, Spring Boot, MongoDB, Thymeleaf**
-- Engineered real-time local shopping platform for discovering nearby in-store products
-- Added product announcement feature for shopkeepers with real-time customer visibility
-- Implemented product request system for querying nearby shops for specific items
-- Enabled image-based product queries using photo uploads for better identification  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-eye&layout=compact&theme=radical" />
+</p>
 
 ---
 
-## 🎓 Education
+## 🚀 Featured Projects
 
-### **Vishwakarma Institute of Technology, Pune**
-Bachelor of Computer Engineering | 2024 – 2027  
-
-### **Government Polytechnic, Amravati**
-Diploma in Information Technology | 2021 – 2024  
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayushdhewale/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:ayushdhewale@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ayush-eye)
-
-</div>
+- 🔥 **AI-based Arrhythmia Detection System (ESP32 + TFLite)**
+- 🌾 **AgroGuardian AI – Smart Farming with NPK Prediction**
+- 🔥 **Gas Leakage Detection with Real-Time Alerts**
+- 📡 **IoT Health Monitoring Dashboard (Firebase + Blynk)**
 
 ---
 
-<div align="center">
+## 🌐 Connect With Me
 
-📍 **Pune, Maharashtra, India**
+<p align="center">
+  <a href="https://github.com/ayush-eye"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+</p>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=ayush-eye&style=flat-square)
+---
 
-![Snake animation](https://raw.githubusercontent.com/Tanuj2805/Tanuj2805/output/snake.svg)
+## 🐍 Contribution Snake Animation
 
-**Open to Software Development & Machine Learning Opportunities**  
-📧 `ayushdhewale@gmail.com`
+<p align="center">
+  <img src="https://github.com/ayush-eye/ayush-eye/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
-</div>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=120&section=footer" />
+## ✨ Quote
+
+> "Build smart systems that solve real-world problems 🌍"
+
+---
