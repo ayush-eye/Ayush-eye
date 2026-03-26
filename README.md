@@ -131,7 +131,7 @@ Diploma in Information Technology | 2021 – 2024
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ayush-eye&style=flat-square)
 
-![Snake animation](https://raw.githubusercontent.com/ayush-eye/ayush-eye/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Tanuj2805/Tanuj2805/output/snake.svg)
 
 **Open to Software Development & Machine Learning Opportunities**  
 📧 `ayushdhewale@gmail.com`
