@@ -96,6 +96,20 @@
   </a>
 </p>
 
+<div align="center">
+
+📍 **Pune, Maharashtra, India**
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ayush-eye&style=flat-square)
+
+![Snake animation](https://raw.githubusercontent.com/ayush-eye/ayush-eye/output/snake.svg)
+
+**Open to Software Development & Machine Learning Opportunities**  
+📧 `ayushdhewale@gmail.com`
+
+</div>
+
+
 ---
 
 ## ✨ Quote
