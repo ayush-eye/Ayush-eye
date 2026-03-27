@@ -42,8 +42,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ayush-eye&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-
+<img src="https://ghchart.rshah.org/ayush-eye" />
 ---
 
 ## 🔥 GitHub Streak
