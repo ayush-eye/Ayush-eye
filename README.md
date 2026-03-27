@@ -42,7 +42,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://ghchart.rshah.org/ayush-eye" />
+<img src="https://raw.githubusercontent.com/ayush-eye/ayush-eye/main/generated-stats.svg">
 ---
 
 ## 🔥 GitHub Streak
