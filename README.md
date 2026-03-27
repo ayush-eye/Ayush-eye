@@ -40,14 +40,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush-eye&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-eye&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -62,22 +54,6 @@
 - 🌾 **AgroGuardian AI – Smart Farming**
 - 🚨 **Gas Leakage Detection System**
 - 📡 **IoT Health Monitoring Dashboard**
-
----
-
-## 🏆 Achievements & Activity
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayush-eye&theme=algolia&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-## 🐍 Contribution Snake (Updated Setup Required)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ayush-eye/ayush-eye/output/github-contribution-grid-snake.svg"/>
-</p>
 
 ---
 
